@@ -5,7 +5,7 @@ class Solution {
             profit=prices[i]-minp;
             maxp=Math.max(maxp,profit);
             minp=Math.min(prices[i],minp);
-            
+            //day1 completed
             }
 
         
